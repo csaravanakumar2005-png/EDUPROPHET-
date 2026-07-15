@@ -1,3 +1,5 @@
+streamlit==1.47.1
+plotly==6.2.0
 Flask==3.1.2
 gunicorn==23.0.0
 numpy==1.26.4
